@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+**Here's a list of my favourite authors 📚 :**
+* J.K. Rowling 
+* Sidney Sheldon
+* John Verdon
+
